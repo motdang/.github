@@ -1,2 +1,3 @@
 # .github
-มดแดง Mot Dang — the org profile and brand files
+
+The profile page of [github.com/motdang](https://github.com/motdang) (`profile/README.md`) and the brand files (`brand/`).
